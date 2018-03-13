@@ -1,0 +1,35 @@
+.pageDiv{
+  height : 100vh;
+}
+
+.vv-blue {
+	background-color: #0076FF; 
+}
+
+.vv-gray {
+	background-color: #8E8E93; 
+}
+
+.vv-green {
+	background-color: #44DB5E; 
+}
+
+.vv-lightblue {
+	background-color: #54C7FC; 
+}
+
+.vv-orange {
+	background-color: #FF9600; 
+}
+
+.vv-pink {
+	background-color: #FF2851; 
+}
+
+.vv-red {
+	background-color: #FF3824; 
+}
+
+.vv-yellow {
+	background-color: #FFCD00; 
+}
